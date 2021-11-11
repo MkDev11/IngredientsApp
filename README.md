@@ -1,3 +1,21 @@
+# App Screenshots
+
+Home page, light mode
+![image](https://user-images.githubusercontent.com/17979853/141297335-328270cd-aa56-4396-a7b7-7344a3778f5c.png)
+
+Home page, dark mode
+![image](https://user-images.githubusercontent.com/17979853/141297415-5f3ecbb0-d821-4fd0-9be1-ae534a336d49.png)
+
+Recipe page, ID param from Recipe List on Home page
+![image](https://user-images.githubusercontent.com/17979853/141297535-a84fb77e-d681-4a97-b9ac-b8fec9e7c57b.png)
+
+Text input search results
+![image](https://user-images.githubusercontent.com/17979853/141297613-2f0777c6-c310-4d60-a0f3-707b65ecedf7.png)
+
+Add New Recipe form with json-server writeback
+![image](https://user-images.githubusercontent.com/17979853/141297796-e83f0115-32aa-41ee-9a0f-dbcc7e1ab614.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
