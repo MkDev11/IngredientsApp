@@ -1,0 +1,53 @@
+.recipe {
+    max-width: 1200px;
+    margin: 40px auto;
+    text-align: center;
+    background: #fff;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+.recipe.dark {
+    max-width: 1200px;
+    margin: 40px auto;
+    text-align: center;
+    background: rgb(82, 82, 82);
+    padding: 40px;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.recipe .cooking-time::before {
+    content: "⏳ ";
+}
+
+.recipe ul {
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.recipe li {
+    list-style-type: none;
+    margin-right: 10px;
+    color: #777;
+    margin-top: 10px;
+}
+
+.recipe li::after {
+    content: ",";
+}
+
+.recipe li:last-child::after {
+    content: ".";
+}
+
+.recipe li:first-child::before {
+    content: "🍳 ";
+}
+
+.method {
+    text-align: left;
+    line-height: 1.55em;
+}
